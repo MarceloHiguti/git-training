@@ -1,0 +1,4 @@
+texto
+em
+várias
+linhas
